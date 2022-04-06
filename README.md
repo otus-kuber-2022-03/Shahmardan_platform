@@ -19,3 +19,5 @@
 
 [ReplicationController](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/#what-is-a-replicationcontroller)
 *coredns-64897985d-5j8jn*
+
+- [ ] Задание со *
