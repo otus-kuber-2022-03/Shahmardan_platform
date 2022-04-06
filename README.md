@@ -21,3 +21,12 @@
 *coredns-64897985d-5j8jn*
 
 - [ ] Задание со *
+  - Выясните причину, по которой pod frontend находится в статусе Error
+
+  ``` sh
+      kubectl logs frontend
+  ```
+    
+    Добавлен необходимы environment в POD.
+
+        
